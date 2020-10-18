@@ -8,4 +8,4 @@ You can find the plugin files to download [here](https://github.com/vincent64/mu
 This plugin is **for personnal use only**. You may edit the code as you wish, but you must keep credits to the original author.
 
 ## Credits
-Original idea by The Hypixel Network. Recreation by MineBlock64 (aka vincent64).
+Original idea by The Hypixel Network. Recreation by vincent64 (aka MineBlock64).
