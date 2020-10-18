@@ -1,0 +1,6 @@
+name: MurderMysteryShowdown
+version: ${project.version}
+main: com.mineblock64.murdermysteryshowdown.MurderMysteryShowdown
+authors: [MineBlock64]
+description: Murder Mystery Showdown gamemode.
+website: https://developer64.com
